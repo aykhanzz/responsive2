@@ -1,0 +1,129 @@
+@media (max-width:1024px) {
+    .container {
+        max-width: 335px;
+        flex-direction: column;
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    .bg {
+        max-width: 335px;
+        margin-bottom: 20px;
+    }
+
+    .lt {
+        padding: 0;
+        margin-bottom: 8px;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        text-align: center;
+        line-height: 100%;
+    }
+
+    .ld {
+        font-weight: 600;
+        font-size: 13px;
+        line-height: 140%;
+        text-align: center;
+    }
+
+    .learnbutton:first-child {
+        margin-right: 10px;
+    }
+
+    .learnbutton:first-child {
+        margin-right: 0;
+    }
+
+    .learnutton:last-child {
+        margin-left: 10px;
+    }
+}
+    
+@media (max-width:768px) {
+    .container {
+        max-width: 335px;
+        flex-direction: column;
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    .bg {
+        max-width: 335px;
+        margin-bottom: 20px;
+    }
+
+    .lt {
+        padding: 0;
+        margin-bottom: 8px;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        text-align: center;
+        line-height: 100%;
+    }
+
+    .ld {
+        font-weight: 600;
+        font-size: 13px;
+        line-height: 140%;
+        text-align: center;
+    }
+
+    .learnbutton:first-child {
+        margin-right: 10px;
+    }
+
+    .learnbutton:first-child {
+        margin-right: 0;
+    }
+
+    .learnutton:last-child {
+        margin-left: 10px;
+    }
+}
+
+@media (max-width:375px) {
+    .container {
+        max-width: 335px;
+        flex-direction: column;
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    .bg {
+        max-width: 335px;
+        margin-bottom: 20px;
+    }
+
+    .lt {
+        padding: 0;
+        margin-bottom: 8px;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        text-align: center;
+        line-height: 100%;
+    }
+
+    .ld {
+        font-weight: 600;
+        font-size: 13px;
+        line-height: 140%;
+        text-align: center;
+    }
+
+    .learnbutton:first-child {
+        margin-right: 10px;
+    }
+
+    .learnbutton:first-child {
+        margin-right: 0;
+    }
+
+    .learnutton:last-child {
+        margin-left: 10px;
+    }
+ 
+}
